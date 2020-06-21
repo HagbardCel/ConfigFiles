@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/fabian/Sources'
+let g:netrw_dirhist_2='/home/fabian/.newsbeuter'
+let g:netrw_dirhist_3='/var/log/journal/2e5ba144000e48c48916cc709bc0bd8f'
+let g:netrw_dirhist_4='/home/fabian/twomasses/RESULTS'
+let g:netrw_dirhist_5='/home/fabian/Diss'
